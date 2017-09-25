@@ -15,5 +15,9 @@ public class LoginActivity extends AppCompatActivity {
 
 
         Toast.makeText(LoginActivity.this,"Hello",Toast.LENGTH_LONG).show();
+
+        Toast.makeText(LoginActivity.this,"Hello",Toast.LENGTH_LONG).show();
+    
     }
+
 }
